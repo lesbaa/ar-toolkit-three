@@ -33,6 +33,7 @@
     "webpack-glsl-loader": "^1.0.1"
   },
   "dependencies": {
+    "jsartoolkit5": "0.0.4",
     "rxjs": "^5.5.7"
   }
 }
